@@ -11,7 +11,7 @@ import telebot
 from telebot import types
 
 
-token = '6207774750:AAGfzAiTjPTweAY0SqH3FBZGBlTpZYdjE_w'
+token = ''
 bot = telebot.TeleBot(token)
 
 old_video = None
